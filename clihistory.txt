@@ -1,0 +1,16 @@
+  212  git add clihistory.txt
+  213  git status
+  214  vi clihistory.txt
+  215  pwd
+  216  cd javacode/
+  217  ls
+  218  cd javacode
+  219  cd javacode/
+  220  ls
+  221  cd ..
+  222  cd javacode/
+  223  ls
+  224  cd ../
+  225  ls
+  226  cat clihistory.txt
+  227  pwd
